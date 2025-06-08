@@ -19,7 +19,7 @@
 
 ## 🧰 Tech Stack
 
-<img align="left" src="https://skillicons.dev/icons?i=sqlite,python,lua,js,html,css,nodejs,git,vscode&theme=dark" />
+<img align="left" src="https://skillicons.dev/icons?i=sqlite,python,discord,lua,js,html,css,nodejs,git,vscode&theme=dark" />
 
 <br clear="left"/>
 

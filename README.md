@@ -8,10 +8,10 @@
 
 - 🔭 Currently working on **Globify** – a discord bot with globalchat.
 - 🛠️ I build tools and experiences using:
-  - **Python** – discord.py, API
+  - **Python** – API (discord.py)
   - **Lua** – scripting, game development, and Roblox experiences
   - **SQL** - database and connections
-  - **JavaScript** – full-stack apps, frontend interfaces, simulations
+  - **JavaScript** – full-stack apps, frontend interfaces, simulations, discord development (discord.js)
 - 🧪 Always exploring new technologies and architectural patterns.
 - 🧩 Fan of clean code, modular systems, and elegant UI.
 

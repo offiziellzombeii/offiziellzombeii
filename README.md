@@ -1,7 +1,5 @@
 # 👋 Hi, I'm officialzombeii
 
-🎯 Passionate Developer • 🚀 Currently building **Globify** • 💡 Always learning and experimenting
-
 ---
 
 ## 🧠 About Me

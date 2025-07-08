@@ -19,13 +19,13 @@
 
 **Main Languages**
 
-<img align="left" src="https://skillicons.dev/icons?i=sqlite,mysql,python,discord,js,nodejs,git,vscode&theme=dark" />
+<img align="left" src="https://skillicons.dev/icons?i=mysql,python,discord,js,nodejs,git,vscode&theme=dark" />
 
 <br clear="left"/>
 
 **Additional Languages**
 
-<img align="left" src="https://skillicons.dev/icons?i=lua,html,sql,css,git,vscode&theme=dark" />
+<img align="left" src="https://skillicons.dev/icons?i=lua,html,css,git,vscode&theme=dark" />
 
 ---
 

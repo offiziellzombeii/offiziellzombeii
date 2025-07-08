@@ -17,9 +17,15 @@
 
 ## 🧰 Tech Stack
 
-<img align="left" src="https://skillicons.dev/icons?i=sqlite,python,discord,lua,js,html,css,nodejs,git,vscode&theme=dark" />
+**Main Languages**
+
+<img align="left" src="https://skillicons.dev/icons?i=sqlite,mysql,python,discord,js,nodejs,git,vscode&theme=dark" />
 
 <br clear="left"/>
+
+**Additional Languages**
+
+<img align="left" src="https://skillicons.dev/icons?i=lua,html,sql,css,git,vscode&theme=dark" />
 
 ---
 

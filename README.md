@@ -27,6 +27,8 @@
 
 <img align="left" src="https://skillicons.dev/icons?i=lua,html,css,git,vscode&theme=dark" />
 
+<br clear="left"/>
+
 ---
 
 ## 🌐 Projects

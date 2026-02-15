@@ -1,4 +1,4 @@
-# 👋 Hi, I'm officialzombeii
+# 👋 Hi, I'm zombeii
 
 ---
 
@@ -40,16 +40,13 @@
 - 📊 Utilities (Poll, Giveaway, etc)
 - 📱 much more
 
-➡️ [Project Repository Link (coming soon)]
 
 ---
 
 ## 📬 Let's Connect
 
 - 🌐 [Discord](https://www.discord.com/users/1170676077325205564)
-- 🐦 [Twitter / X](https://twitter.com/globifybot)
-- 
-- ✉️ Mail: globifymanagement@gmail.com
+- 🐦 [Twitter / X](https://twitter.com/officialzombeii)
 
 ---
 
